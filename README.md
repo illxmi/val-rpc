@@ -18,7 +18,5 @@ Download [loader.exe](https://github.com/illxmi/val-rpc/raw/main/loader.exe) and
 
 ## Author
 
-**illxmi**
-- [github](https://www.github.com/illxmi)
-- [discord](https://www.discord.gg/uninstall)
+- [illxmi](https://www.github.com/illxmi)
 
